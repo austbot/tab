@@ -1,0 +1,10 @@
+[package]
+name = "tab"
+version = "0.1.0"
+authors = ["austbot <me@austbot.com>"]
+
+[workspace]
+
+[dependencies]
+swim = { path = "swim" }
+rand = "0.3"
